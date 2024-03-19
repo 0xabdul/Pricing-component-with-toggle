@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/badge/Status-Completed-90EE90?style=for-the-badge&logo=frontendmentor" alt="Abdul Profile">
   </a><br><br>
   <a href="https://www.frontendmentor.io/challenges?difficulties=2"  >
-    <img src="https://img.shields.io/badge/Difficulty-newbie-87CEEB?style=for-the-badge&logo=frontendmentor" alt="Challenge Difficulty-junior">
+    <img src="https://img.shields.io/badge/Difficulty-junior-008000?style=for-the-badge&logo=frontendmentor" alt="Challenge Difficulty-junior">
   </a>
 </div>
 <br />
@@ -33,8 +33,6 @@
 
 ### Key Features:<br>
 
--  Pricing Plans: The component displays multiple pricing plans, each offering different features and pricing tiers. Users can easily compare the plans to determine which best suits their needs.
-
 
 - Toggle Functionality: A toggle switch allows users to switch between monthly and yearly pricing options effortlessly. This feature provides flexibility for users to choose the billing cycle that suits them best.
 
@@ -44,16 +42,17 @@
 
 - Responsive Layout: The pricing component is responsive and adapts seamlessly to various screen sizes and devices. Whether accessed on desktop, tablet, or mobile devices, users can enjoy a consistent experience.
 
+- Accessible Design: Accessibility considerations are integrated into the design of the pricing component to ensure that it is usable by all users, including those with disabilities. Semantic HTML elements and ARIA attributes are used to enhance screen reader compatibility and keyboard navigation.
+
 <br>
 
 ## Technologies Used: ⚔️<br>
 
-- HTML: For creating the structure of the web page.
+- HTML: The structure of the pricing component is built using HTML, with semantic markup to enhance accessibility and SEO.
 
-- CSS: For styling the component and making it visually appealing.
+- CSS: Cascading Style Sheets (CSS) are used to style the pricing component, including layout, typography, colors, and other visual elements. CSS transitions and animations may be implemented to enhance interactivity and user experience.
 
-- JavaScript: For interacting with the DOM, handling user interactions, and manipulating data.<br>
-
+- JavaScript: JavaScript is used to implement the toggle functionality and dynamic pricing display. Event listeners are added to handle user interactions, and DOM manipulation is used to update the pricing information based on the user's selection.
 
 ## Preview Img :  📷 <br>
 
